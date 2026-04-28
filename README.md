@@ -1,3 +1,3 @@
 ### Hi there, this is MeloAlright 👋 
 
-<sup>Recently focused on [☆wikipedia-cli](https://github.com/rscli/wikipedia-cli)</sup>
+<sup>Recently focused on [☆rux](https://github.com/rustq/rux)</sup>
