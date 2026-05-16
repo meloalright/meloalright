@@ -1,3 +1,3 @@
 ### Hi there, this is MeloAlright 👋 
 
-<sup>Recently focused on [☆who-ast](https://github.com/meloalright/who-ast)</sup>
+<sup>Recently focused on [☆whocall](https://github.com/meloalright/whocall)</sup>
